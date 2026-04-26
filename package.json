@@ -1,0 +1,29 @@
+{
+  "name": "backend-course-2026-6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavlo12112/backend-course-2026-6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavlo12112/backend-course-2026-6/issues"
+  },
+  "homepage": "https://github.com/Pavlo12112/backend-course-2026-6#readme",
+  "description": "",
+  "dependencies": {
+    "commander": "^14.0.3",
+    "express": "^5.2.1",
+    "multer": "^2.1.1",
+    "superagent": "^10.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
